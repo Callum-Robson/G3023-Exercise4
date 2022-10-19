@@ -1,0 +1,2238 @@
+fileFormatVersion: 2
+guid: 9c15fc439c0be4143a2c9611c01d1589
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_0
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 626
+        width: 38
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178b8627811163a4aab6fa8fc5935537
+      internalID: 780304275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_1
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 672
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206cb74835c14334597c962c96486b55
+      internalID: -1269385911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_2
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 673
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a0de433d2cfbf4cb77e70718e43544
+      internalID: -1172493183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_3
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 675
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8530f50b806c48249ba2b125e2bf3bdb
+      internalID: 710209243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_4
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 672
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e3ff7ce0676604aac6509e52a931f3
+      internalID: -497501265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_5
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 624
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d43a5e431f5c140b2204d9b03b967f
+      internalID: -817740310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_6
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 624
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ac48f1f675860499e1273f96868b30
+      internalID: 2091028489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_7
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 628
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7f5a2c72f6b79429bf030fc78727fe
+      internalID: 182714271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_8
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 624
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c9823d1478be447a7a6f820fba8ecf
+      internalID: 1587330858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe875c76f1a0624cb743fddf0b51cec
+      internalID: 1210789811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 568
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b684586f4bb716e489219427530bb877
+      internalID: 358114926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 568
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311090c6f039b86468b525868ef1046e
+      internalID: 940209902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 568
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c8e8e2a1d061a4d81f52d71b6a60cc
+      internalID: 1604710321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_13
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 568
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419c0d004a39ef843b9178328855593d
+      internalID: 659697791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 575
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da65a84b3ace1004aadd914081a50d2b
+      internalID: -916010320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_15
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 568
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7c43cceffc1964ca073724133874ba
+      internalID: -1640992129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_16
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 572
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa12c55b68121bc488e61c6a3be3d61f
+      internalID: 683519654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 520
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade839cd1c0609849b4d3e50fb03d606
+      internalID: -65582199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_18
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 520
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c49a3b95a45f3459671fcdfc5d5f6e
+      internalID: -1746263093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 520
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d94623bc57eb640a7bf890b55b2bd2
+      internalID: 1213134465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_20
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 521
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9edfcea1bc90524fb3813ab6d84ec3e
+      internalID: 277207054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_21
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 520
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70259260d87099a45b671732260d8b81
+      internalID: 1180278285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_22
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 520
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c0e4252315d4a40b626cd7ed45ca8c
+      internalID: 1002092995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_23
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 520
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1fe41379d13e04e8ac1dd1afc280e5
+      internalID: -1752200800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_24
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 523
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec8778d90c6c34409952b71730675f6
+      internalID: 1454339473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_25
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 466
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757948edca016ec43ae0dc1f04b865bf
+      internalID: 933373208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 465
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0c9951b250bb0489c2f4e849bcc82e
+      internalID: 1322001176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_27
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 464
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3a5298f42ea1641931883e9eccd77c
+      internalID: 2098390214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_28
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 465
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4fce38b9b0e6e45afe5efa7badec53
+      internalID: 661297459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_29
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 464
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c47eb57ab056134791d43f158964990
+      internalID: 1457945153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_30
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 419
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b033725aa6b634d9fdc8422d20b499
+      internalID: -962116545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_31
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 416
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab7762da3d8a1049a0f8b7e034d9d43
+      internalID: -1776837959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_32
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 416
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bb51b48517bd947b54fc946da777b1
+      internalID: -219723932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_33
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 416
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fad83f699e83e04fbab90be56fbc73f
+      internalID: -1583151121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_34
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 416
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca8c5510e2d87f4497222577bb9c992
+      internalID: 424455744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_35
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 362
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b82b4d788413ff4b869c1c32677fd44
+      internalID: -29987031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_36
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 402
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3bbde4d7e4b6349a09dc4b03fd2d4a
+      internalID: 567074311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_37
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 361
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10a1e99297ea96479f8e62b68be6c72
+      internalID: 1982935710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_38
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 360
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7807ba94a18b1479f28f121ae56752
+      internalID: -1842051474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_39
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 364
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3c18d00b9e2dc4d87eb980c901a81c
+      internalID: -448440157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_40
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af95bbad8c824f84d87092da417e8042
+      internalID: -153690841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_41
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 315
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eded8d807ede59e4da800a62663a61b6
+      internalID: -1737106586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_42
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce79239a95004f4187991923e3e62f9
+      internalID: -1387193599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_43
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 312
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5999450389883014dbf0dcb74787e028
+      internalID: -1758148260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_44
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 312
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669a26c31b5603c459f4391c10cf90ec
+      internalID: 2027590735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_45
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 256
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc8315edee0b0249b0e0d695dd9881f
+      internalID: -924615452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6079d29587b8f9b41a8a75d25c0b4975
+      internalID: -1060489514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_47
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 260
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d278585e3f6bd46a052385372ed3da
+      internalID: 2038109828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_48
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 258
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a93fb5406e71a044b2bc5ddfa2cc4e0
+      internalID: -1483250614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_49
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 208
+        width: 45
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559dc36efbdc1ac438a5ff90918586a6
+      internalID: 307496328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_50
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 256
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255a8fdb89d152d428b46edde1b78161
+      internalID: -561824778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_51
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 258
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0595f23c599a1a34593432421fbc76d7
+      internalID: 397054517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_52
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 259
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a60481f55d8bdb47990e43d6c36cb27
+      internalID: 1361459281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_53
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 282
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c007162fcf57dbd45a7c253403cebae1
+      internalID: -1941516495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_54
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897665542ebfa474499e4729e63fb93f
+      internalID: 1537089824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 152
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb1c3c6b1631de4a8e505588ec6a0ce
+      internalID: 1798800670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_56
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 211
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0992dd26a748c8448aacea0da399a7ff
+      internalID: 671829048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_57
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 208
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598e20523e3d0424b939ce079216c4aa
+      internalID: 457454900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_58
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 208
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6400c17010b0be44c99fdbc4cb9529a4
+      internalID: 1656183279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_59
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 209
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b83ab8cc8b0774f92769ca9763d172
+      internalID: 2026122734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_60
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 208
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3127c4859e6c94e86d7e9a98b08121
+      internalID: -613099661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_61
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 246
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621b9aa30524c0c4b95bdf49dc9c9402
+      internalID: -1840164524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_62
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 248
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330fa4aa2c81b224695ead95c262ada1
+      internalID: 1984344759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_63
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 152
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af08d939dd17fc347aca0b4878caaddc
+      internalID: 635925043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7790ee98e474e6843a1acbd81be19db9
+      internalID: -442032117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_65
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 154
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da73499ee1159e438a333800cf0f7df
+      internalID: 264644321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_66
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 154
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3fbdc74430dca4fa91ed6901981472
+      internalID: -830628528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_67
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 155
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d7e6809e5d95e4ca3efe725ed9c801
+      internalID: -1295754145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_68
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 153
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df0380f3340a0c469a4b1fc339fbf14
+      internalID: 1877451338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_69
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 152
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349500856ac8b1a43bbf4c01016d6a97
+      internalID: -1433886602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 104
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8a62f8eb5ab644091f4b9397a128cb
+      internalID: -270362849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_71
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 104
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760d02afea1e9524595951cf6ac48fa6
+      internalID: 1067508114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_72
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 104
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c8b5e028ea39d4ab3267e438b8c235
+      internalID: -454020630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_73
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 104
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6f915cd46ce8d45a46d304b60378a3
+      internalID: -380249649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 104
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6febf4b9a8ce74d81d6d34dcdd0731
+      internalID: 1142466422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_75
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 104
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1d15e94b7bbad4a8eb2fc16ed85f88
+      internalID: -59034428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_76
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 56
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b924caf3d105f45a7d512546128e88
+      internalID: -3020652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_77
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0084c73ca31db46a83d68d180d2bd3
+      internalID: -715129559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_78
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 51
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf06395a73fe8c4381041888685cf85
+      internalID: 2126219490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_79
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 48
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cad9cabc8fda2842b6c91146e9d1c74
+      internalID: -1266054076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_80
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 48
+        width: 110
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe1fa1bb102b7c44a7c4ed44496f2ef
+      internalID: 88996999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_81
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 48
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4954f68eaa8de2b4892aff36528f59fb
+      internalID: 1369487955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_82
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 48
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e1e1f217a01c4409a600c1669bb76c
+      internalID: -905702387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_83
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 49
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bb39fe78b558b49bb94f1c7ff2b9a0
+      internalID: 749800195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_84
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfbe6b43e22c4e4fadf50af7a93f97c
+      internalID: -2014211839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_85
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 59
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b87df5cbe576414da63480635b01803
+      internalID: 302335251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_86
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65dab4cbe1a0024c8e8d2b97a7f3be1
+      internalID: -918828170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_87
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d9a9a32b0f8aa4b8618e0bdebda241
+      internalID: 1312956607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_88
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff813df028b549348824f582d7ca3443
+      internalID: 1044830540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_89
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcd58a9c4bbef94189ed6a342d90190
+      internalID: -714750730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_90
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d817d4947b85448bfe66fba6da4128
+      internalID: 1185492609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_91
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 0
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64acd6f2373a7064f90b250334e28c94
+      internalID: -1564545459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_92
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 0
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395ddce9605789845880197b86300fa6
+      internalID: 1476008880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_93
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 0
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bd23aad6e15ae478cd481ef1fcc7c9
+      internalID: -525404855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnusedPokemonSpritesRGB_94
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 0
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb2a9cf71a17d6449b51f3189b2ff78
+      internalID: 955611686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UnusedPokemonSpritesRGB_13: 659697791
+      UnusedPokemonSpritesRGB_83: 749800195
+      UnusedPokemonSpritesRGB_73: -380249649
+      UnusedPokemonSpritesRGB_34: 424455744
+      UnusedPokemonSpritesRGB_50: -561824778
+      UnusedPokemonSpritesRGB_91: -1564545459
+      UnusedPokemonSpritesRGB_32: -219723932
+      UnusedPokemonSpritesRGB_17: -65582199
+      UnusedPokemonSpritesRGB_2: -1172493183
+      UnusedPokemonSpritesRGB_25: 933373208
+      UnusedPokemonSpritesRGB_70: -270362849
+      UnusedPokemonSpritesRGB_64: -442032117
+      UnusedPokemonSpritesRGB_36: 567074311
+      UnusedPokemonSpritesRGB_5: -817740310
+      UnusedPokemonSpritesRGB_54: 1537089824
+      UnusedPokemonSpritesRGB_18: -1746263093
+      UnusedPokemonSpritesRGB_77: -715129559
+      UnusedPokemonSpritesRGB_46: -1060489514
+      UnusedPokemonSpritesRGB_72: -454020630
+      UnusedPokemonSpritesRGB_65: 264644321
+      UnusedPokemonSpritesRGB_22: 1002092995
+      UnusedPokemonSpritesRGB_86: -918828170
+      UnusedPokemonSpritesRGB_62: 1984344759
+      UnusedPokemonSpritesRGB_59: 2026122734
+      UnusedPokemonSpritesRGB_81: 1369487955
+      UnusedPokemonSpritesRGB_67: -1295754145
+      UnusedPokemonSpritesRGB_61: -1840164524
+      UnusedPokemonSpritesRGB_48: -1483250614
+      UnusedPokemonSpritesRGB_60: -613099661
+      UnusedPokemonSpritesRGB_92: 1476008880
+      UnusedPokemonSpritesRGB_93: -525404855
+      UnusedPokemonSpritesRGB_7: 182714271
+      UnusedPokemonSpritesRGB_44: 2027590735
+      UnusedPokemonSpritesRGB_39: -448440157
+      UnusedPokemonSpritesRGB_94: 955611686
+      UnusedPokemonSpritesRGB_42: -1387193599
+      UnusedPokemonSpritesRGB_58: 1656183279
+      UnusedPokemonSpritesRGB_37: 1982935710
+      UnusedPokemonSpritesRGB_88: 1044830540
+      UnusedPokemonSpritesRGB_8: 1587330858
+      UnusedPokemonSpritesRGB_14: -916010320
+      UnusedPokemonSpritesRGB_27: 2098390214
+      UnusedPokemonSpritesRGB_49: 307496328
+      UnusedPokemonSpritesRGB_68: 1877451338
+      UnusedPokemonSpritesRGB_29: 1457945153
+      UnusedPokemonSpritesRGB_76: -3020652
+      UnusedPokemonSpritesRGB_28: 661297459
+      UnusedPokemonSpritesRGB_56: 671829048
+      UnusedPokemonSpritesRGB_43: -1758148260
+      UnusedPokemonSpritesRGB_33: -1583151121
+      UnusedPokemonSpritesRGB_11: 940209902
+      UnusedPokemonSpritesRGB_38: -1842051474
+      UnusedPokemonSpritesRGB_23: -1752200800
+      UnusedPokemonSpritesRGB_26: 1322001176
+      UnusedPokemonSpritesRGB_74: 1142466422
+      UnusedPokemonSpritesRGB_71: 1067508114
+      UnusedPokemonSpritesRGB_87: 1312956607
+      UnusedPokemonSpritesRGB_82: -905702387
+      UnusedPokemonSpritesRGB_10: 358114926
+      UnusedPokemonSpritesRGB_45: -924615452
+      UnusedPokemonSpritesRGB_66: -830628528
+      UnusedPokemonSpritesRGB_78: 2126219490
+      UnusedPokemonSpritesRGB_85: 302335251
+      UnusedPokemonSpritesRGB_30: -962116545
+      UnusedPokemonSpritesRGB_89: -714750730
+      UnusedPokemonSpritesRGB_31: -1776837959
+      UnusedPokemonSpritesRGB_6: 2091028489
+      UnusedPokemonSpritesRGB_53: -1941516495
+      UnusedPokemonSpritesRGB_40: -153690841
+      UnusedPokemonSpritesRGB_79: -1266054076
+      UnusedPokemonSpritesRGB_4: -497501265
+      UnusedPokemonSpritesRGB_20: 277207054
+      UnusedPokemonSpritesRGB_24: 1454339473
+      UnusedPokemonSpritesRGB_55: 1798800670
+      UnusedPokemonSpritesRGB_41: -1737106586
+      UnusedPokemonSpritesRGB_0: 780304275
+      UnusedPokemonSpritesRGB_57: 457454900
+      UnusedPokemonSpritesRGB_84: -2014211839
+      UnusedPokemonSpritesRGB_12: 1604710321
+      UnusedPokemonSpritesRGB_16: 683519654
+      UnusedPokemonSpritesRGB_52: 1361459281
+      UnusedPokemonSpritesRGB_9: 1210789811
+      UnusedPokemonSpritesRGB_80: 88996999
+      UnusedPokemonSpritesRGB_47: 2038109828
+      UnusedPokemonSpritesRGB_3: 710209243
+      UnusedPokemonSpritesRGB_19: 1213134465
+      UnusedPokemonSpritesRGB_21: 1180278285
+      UnusedPokemonSpritesRGB_1: -1269385911
+      UnusedPokemonSpritesRGB_90: 1185492609
+      UnusedPokemonSpritesRGB_75: -59034428
+      UnusedPokemonSpritesRGB_35: -29987031
+      UnusedPokemonSpritesRGB_63: 635925043
+      UnusedPokemonSpritesRGB_51: 397054517
+      UnusedPokemonSpritesRGB_15: -1640992129
+      UnusedPokemonSpritesRGB_69: -1433886602
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
