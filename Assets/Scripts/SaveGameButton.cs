@@ -22,7 +22,10 @@ public class SaveGameButton : MonoBehaviour
     {
         using (StreamWriter sw = new StreamWriter("SavedLocation.txt"))
         {
-            sw.WriteLine(player.transform.position);
+            float x = player.transform.position.x;
+            float y = player.transform.position.y;
+            float z = player.transform.position.z;
+            sw.WriteLine(x + "," + y + "," + z);
         }
 
     }
