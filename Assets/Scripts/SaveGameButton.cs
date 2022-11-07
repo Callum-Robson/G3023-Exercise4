@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class SaveGameButton : MonoBehaviour
 {
@@ -22,6 +23,7 @@ public class SaveGameButton : MonoBehaviour
     {
         using (StreamWriter sw = new StreamWriter("SavedLocation.txt"))
         {
+            sw.WriteLine(SceneManager.GetActiveScene().name);
             float x = player.transform.position.x;
             float y = player.transform.position.y;
             float z = player.transform.position.z;

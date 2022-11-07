@@ -5,9 +5,10 @@ using UnityEngine.SceneManagement;
 
 public class Buttons : MonoBehaviour
 {
+    public string loadedSceneName;
     public void MenuContinue()
     {
-        SceneManager.LoadScene("NightTown");
+        SceneManager.LoadScene(loadedSceneName);
     }
 
     public void MenuNewGame()

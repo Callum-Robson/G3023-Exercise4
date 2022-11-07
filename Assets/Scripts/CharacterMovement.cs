@@ -11,30 +11,23 @@ public class CharacterMovement : MonoBehaviour
     [Range(0, 6)]
     private float MoveSpeed = 2;
     private SaveGameButton saveButton;
-    private LoadLocation loadLocation;
     [SerializeField]
     Canvas canvas;
+    public Vector3 loadedLocation;
 
     // Start is called before the first frame update
     void Start()
     {
-        Invoke(nameof(setSaveAndLoadPlayer), .5f);
+        Invoke(nameof(setSaveButtonPlayer), .5f);
         canvas = GameObject.FindGameObjectWithTag("Canvas").GetComponent<Canvas>();
+        transform.position = new Vector3(LoadLocation.coords[0], LoadLocation.coords[1], LoadLocation.coords[2]);
     }
 
-    // Update is called once per frame
-    void FixedUpdate()
+    private void Update()
     {
-        float x = Input.GetAxisRaw("Horizontal");
-        float y = Input.GetAxisRaw("Vertical");
-
-        Vector3 newPosition = transform.position + new Vector3(x * Time.deltaTime * (MoveSpeed / 3), y * Time.deltaTime * (MoveSpeed / 3));
-
-        rigidBody.MovePosition(newPosition);
-
-        if(Input.GetKeyDown(KeyCode.I))
+        if (Input.GetKeyDown(KeyCode.I))
         {
-            if(canvas.gameObject.activeInHierarchy)
+            if (canvas.gameObject.activeSelf)
             {
                 canvas.gameObject.SetActive(false);
             }
@@ -45,14 +38,23 @@ public class CharacterMovement : MonoBehaviour
         }
     }
 
-    private void setSaveAndLoadPlayer()
+    void FixedUpdate()
+    {
+        float x = Input.GetAxisRaw("Horizontal");
+        float y = Input.GetAxisRaw("Vertical");
+
+        Vector3 newPosition = transform.position + new Vector3(x * Time.deltaTime * (MoveSpeed / 3), y * Time.deltaTime * (MoveSpeed / 3));
+
+        rigidBody.MovePosition(newPosition);
+    }
+
+    private void setSaveButtonPlayer()
     {
         saveButton = GameObject.FindGameObjectWithTag("SaveButton").GetComponent<SaveGameButton>();
-        loadLocation = GameObject.FindGameObjectWithTag("LoadLocation").GetComponent<LoadLocation>();
         if (CompareTag("Player"))
         {
             saveButton.player = transform.gameObject;
-            loadLocation.player = transform.gameObject;
         }
     }
+
 }

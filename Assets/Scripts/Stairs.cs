@@ -7,7 +7,7 @@ using UnityEngine.Rendering.Universal;
 public class Stairs : MonoBehaviour
 {
     [SerializeField]
-    public Light2D light = new Light2D();
+    public Light2D m_Light = new Light2D();
     bool lightNotSet = true;
     // Start is called before the first frame update
     void Start()
@@ -23,10 +23,10 @@ public class Stairs : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        light = collision.gameObject.GetComponentInChildren<Light2D>();
-        light.pointLightInnerRadius = 0.2f;
-        light.pointLightOuterRadius = 0.3f;
-        light.falloffIntensity = 1.0f;
+        m_Light = collision.gameObject.GetComponentInChildren<Light2D>();
+        m_Light.pointLightInnerRadius = 0.2f;
+        m_Light.pointLightOuterRadius = 0.3f;
+        m_Light.falloffIntensity = 1.0f;
     }
 
 }

@@ -5,17 +5,21 @@ using UnityEngine;
 
 public class LoadLocation : MonoBehaviour
 {
-    public GameObject player;
     public Vector3 loc;
+    [SerializeField]
+    private Buttons m_buttons;
 
-    private float[] coords = new float[3];
+    public static float[] coords = new float[3];
     // Start is called before the first frame update
     void Start()
     {
-        player = GameObject.FindGameObjectWithTag("Player");
         using (StreamReader sr = new StreamReader("SavedLocation.txt"))
         {
             string line;
+            if ((line = sr.ReadLine()) != null)
+            {
+                m_buttons.loadedSceneName = line;
+            }
             string[] csv;
             if ((line = sr.ReadLine()) != null)
             {
@@ -28,8 +32,6 @@ public class LoadLocation : MonoBehaviour
                 }
                 // use csv in stream writer to separate coordinate values so they're easily readable
             }
-            player.transform.position = new Vector3(coords[0], coords[1], coords[2]);
-
         }
     }
     // Update is called once per frame
