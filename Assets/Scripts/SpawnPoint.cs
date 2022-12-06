@@ -12,7 +12,7 @@ public class SpawnPoint : MonoBehaviour
     public static Traveler Player
     {
         get;            // Will return player, no need to do it manually
-        private set;
+        set;
     }
 
     void Awake()

@@ -5,10 +5,20 @@ using UnityEngine.SceneManagement;
 
 public class Buttons : MonoBehaviour
 {
+
     public string loadedSceneName;
+    private LocationLoader locationLoader;
+
+    private void Start()
+    {
+        locationLoader = FindObjectOfType<LocationLoader>();
+    }
+
     public void MenuContinue()
     {
-        SceneManager.LoadScene(loadedSceneName);
+        string sceneName = locationLoader.Load();
+        if (locationLoader.Load() != "0")
+        SceneManager.LoadScene(locationLoader.Load());
     }
 
     public void MenuNewGame()
@@ -24,5 +34,6 @@ public class Buttons : MonoBehaviour
     public void Flee()
     {
         SceneManager.LoadScene("NightTown");
-    }    
+    }
+
 }

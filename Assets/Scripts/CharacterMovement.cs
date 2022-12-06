@@ -13,14 +13,17 @@ public class CharacterMovement : MonoBehaviour
     private SaveGameButton saveButton;
     [SerializeField]
     Canvas canvas;
-    public Vector3 loadedLocation;
 
     // Start is called before the first frame update
     void Start()
     {
         Invoke(nameof(setSaveButtonPlayer), .5f);
         canvas = GameObject.FindGameObjectWithTag("Canvas").GetComponent<Canvas>();
-        transform.position = new Vector3(LoadLocation.coords[0], LoadLocation.coords[1], LoadLocation.coords[2]);
+        if (LocationLoader.dataLoaded)
+        {
+            transform.position = new Vector3(LocationLoader.coords[0], LocationLoader.coords[1], LocationLoader.coords[2]);
+            LocationLoader.dataLoaded = false;
+        }
     }
 
     private void Update()

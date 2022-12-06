@@ -1277,7 +1277,7 @@ GameObject:
   - component: {fileID: 1655019723}
   - component: {fileID: 1655019722}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: LocationLoader
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1292,10 +1292,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1655019721}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: de92685f480d11945971fd480c9b349e, type: 3}
+  m_Script: {fileID: 11500000, guid: f7847b1d25bd6f34faf91b4dcf8434ec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  loc: {x: 0, y: 0, z: 0}
   m_buttons: {fileID: 1886599796}
 --- !u!4 &1655019723
 Transform:
